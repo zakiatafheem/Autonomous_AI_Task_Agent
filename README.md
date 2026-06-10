@@ -163,6 +163,7 @@ autonomous-task-agent/
 ├──  retriever.py
 ├── state.py
 ├──  workflow.py
+├── chroma_db/
 ├── llm.py
 ├── .env
 ├── requirements.txt
