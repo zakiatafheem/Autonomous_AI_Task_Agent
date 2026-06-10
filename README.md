@@ -1,11 +1,8 @@
 # 🤖 Multi-Step Autonomous AI Task Agent
 
-## 1. Overview
+## Overview
 
-**Multi-Step Autonomous AI Task Agent** 
-
-is an Agentic AI application that autonomously plans, executes, and summarizes complex user-defined tasks using **LangGraph, LangChain, Groq LLM, ChromaDB, and Streamlit**.
-
+**Multi-Step Autonomous AI Task Agent** is an Agentic AI application that autonomously plans, executes, and summarizes complex user-defined tasks using **LangGraph, LangChain, Groq LLM, ChromaDB, and Streamlit**.
 The system follows a multi-step workflow where an AI planner decomposes a high-level goal into actionable tasks, executes them sequentially, leverages Retrieval-Augmented Generation (RAG) for contextual understanding, and generates a final consolidated report.
 
 ---
